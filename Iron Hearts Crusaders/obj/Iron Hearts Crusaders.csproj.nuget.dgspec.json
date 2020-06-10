@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders.csproj": {}
+    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\CicloJuego\\CicloJuego.csproj": {
+    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\CicloJuego\\CicloJuego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\CicloJuego\\CicloJuego.csproj",
+        "projectUniqueName": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\CicloJuego\\CicloJuego.csproj",
         "projectName": "CicloJuego",
-        "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\CicloJuego\\CicloJuego.csproj",
+        "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\CicloJuego\\CicloJuego.csproj",
         "packagesPath": "C:\\Users\\cyber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\CicloJuego\\obj\\",
+        "outputPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\CicloJuego\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj": {
-                "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj"
+              "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj": {
+                "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders.csproj": {
+    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders.csproj",
+        "projectUniqueName": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders.csproj",
         "projectName": "Iron Hearts Crusaders",
-        "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders.csproj",
+        "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders.csproj",
         "packagesPath": "C:\\Users\\cyber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Iron Hearts Crusaders\\obj\\",
+        "outputPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Iron Hearts Crusaders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,11 +89,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\CicloJuego\\CicloJuego.csproj": {
-                "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\CicloJuego\\CicloJuego.csproj"
+              "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\CicloJuego\\CicloJuego.csproj": {
+                "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\CicloJuego\\CicloJuego.csproj"
               },
-              "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj": {
-                "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj"
+              "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj": {
+                "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj"
               }
             }
           }
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj": {
+    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj",
+        "projectUniqueName": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj",
         "projectName": "Recursos",
-        "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj",
+        "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj",
         "packagesPath": "C:\\Users\\cyber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\obj\\",
+        "outputPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

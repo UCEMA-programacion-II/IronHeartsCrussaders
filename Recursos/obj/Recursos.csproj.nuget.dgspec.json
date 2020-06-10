@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj": {}
+    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj": {
+    "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj",
+        "projectUniqueName": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj",
         "projectName": "Recursos",
-        "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\Recursos.csproj",
+        "projectPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\Recursos.csproj",
         "packagesPath": "C:\\Users\\cyber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Irons Heart Crusaders\\Iron Hearts Crusaders\\Recursos\\obj\\",
+        "outputPath": "C:\\Users\\cyber\\Documents\\UCEMA\\Programacion II\\Repos\\Nueva carpeta\\IronHeartsCrussaders\\Recursos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
